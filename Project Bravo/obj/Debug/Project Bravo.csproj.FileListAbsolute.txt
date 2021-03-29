@@ -1,0 +1,7 @@
+C:\Users\jstan\source\repos\Project Bravo\bin\Debug\Project Bravo.exe.config
+C:\Users\jstan\source\repos\Project Bravo\bin\Debug\Project Bravo.exe
+C:\Users\jstan\source\repos\Project Bravo\bin\Debug\Project Bravo.pdb
+C:\Users\jstan\source\repos\Project Bravo\obj\Debug\Project Bravo.csprojAssemblyReference.cache
+C:\Users\jstan\source\repos\Project Bravo\obj\Debug\Project Bravo.csproj.CoreCompileInputs.cache
+C:\Users\jstan\source\repos\Project Bravo\obj\Debug\Project Bravo.exe
+C:\Users\jstan\source\repos\Project Bravo\obj\Debug\Project Bravo.pdb
